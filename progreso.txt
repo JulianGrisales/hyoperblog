@@ -1,0 +1,12 @@
+Este es mi progreso de aprendizaje:
+
+* Inicios en programaci�n sobre todo el Java
+* Lo mismo en C#
+* Bases de Datos MySQL
+* Sistemas Operativos
+
+PLATZI
+
+Ahora vamos a iniciar con las cosas nuevas y extras que estas aprendiendo
+
+* Arquitectura Frontend y algunos conceptos básicos
